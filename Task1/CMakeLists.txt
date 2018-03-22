@@ -1,0 +1,6 @@
+cmake_minimum_required( VERSION 3.9.4 )
+project(task)
+add_subdirectory(pg)
+add_subdirectory(ranges)
+add_subdirectory(task1)
+add_subdirectory(googletest-master)
